@@ -1,1 +1,2 @@
 This software engennering group project for group h - callum arda olover and david
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Callum1010/seMethods_GroupH/main.yml?branch=master)
