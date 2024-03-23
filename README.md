@@ -1,1 +1,1 @@
-This software engennering group project for group h
+This software engennering group project for group h - callum arda olover and david
