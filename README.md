@@ -1,4 +1,5 @@
 This software engennering group project for group h - callum arda olover and david
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Callum1010/seMethods_GroupH/main.yml?branch=master)
-[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
+* Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Callum1010/seMethods_GroupH/main.yml?branch=master)
+* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Callum1010/seMethods_GroupH/main.yml?branch=develop)
+[![LICENSE](https://img.shields.io/github/license/Callum1010/seMethods_GroupH.svg?style=flat-square)](https://github.com/Callum1010/seMethods_GroupH/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/Callum1010/seMethods_GroupH/all.svg?style=flat-square)](https://github.com/Callum1010/seMethods_GroupH/releases)
